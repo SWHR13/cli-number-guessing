@@ -1,0 +1,21 @@
+{
+  "name": "swhr-guessing_number",
+  "version": "3.0.3",
+  "description": "CLI based Guessing Number Game",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "dependencies": {
+    "@swhrizvi/guessing_number": "^1.0.0",
+    "inquirer": "^9.2.23",
+    "swhr-guessing_number": "^3.0.3"
+  }
+}
